@@ -1,0 +1,921 @@
+{
+  "ola": {
+    "changana": "xabonga",
+    "english": "hello"
+  },
+  "adeus": {
+    "changana": "sala kahle",
+    "english": "goodbye"
+  },
+  "sim": {
+    "changana": "ehe",
+    "english": "yes"
+  },
+  "nao": {
+    "changana": "ayi",
+    "english": "no"
+  },
+  "obrigado": {
+    "changana": "nikhensa",
+    "english": "thank you"
+  },
+  "anda": {
+    "changana": "famba",
+    "english": "walk"
+  },
+    "berrar": {
+      "changana": "kubonga",
+      "english": "to shout"
+    },
+    "envergonhar-se": {
+      "changana": "kudana",
+      "english": "to be ashamed"
+    },
+    "calamidades naturais": {
+      "changana": "jandza",
+      "english": "natural disasters"
+    },
+    "acabar": {
+      "changana": "kugama",
+      "english": "to finish"
+    },
+    "calar": {
+      "changana": "kumiyela",
+      "english": "to be quiet"
+    },
+    "ajudar": {
+      "changana": "kupfuna",
+      "english": "to help"
+    },
+    "vos": {
+      "changana": "n'wina",
+      "english": "you (plural)"
+    },
+    "morder": {
+      "changana": "kuluma",
+      "english": "to bite"
+    },
+    "cultivar": {
+      "changana": "kurima",
+      "english": "to farm"
+    },
+    "ver": {
+      "changana": "kuvona",
+      "english": "to see"
+    },
+    "carro": {
+      "changana": "movha",
+      "english": "car"
+    },
+    "ar": {
+      "changana": "moya",
+      "english": "air"
+    },
+    "tu": {
+      "changana": "wena",
+      "english": "you"
+    },
+    "arrombar": {
+      "changana": "kubvanya",
+      "english": "to break in"
+    },
+    "capim": {
+      "changana": "bzanyi",
+      "english": "grass"
+    },
+    "cem": {
+      "changana": "dzana",
+      "english": "hundred"
+    },
+    "estar na moda": {
+      "changana": "kulhuma",
+      "english": "to be trendy"
+    },
+    "matar": {
+      "changana": "kudlaya",
+      "english": "to kill"
+    },
+    "chapeu": {
+      "changana": "xigqoko",
+      "english": "hat"
+    },
+    "espremer": {
+      "changana": "kuminya",
+      "english": "to squeeze"
+    },
+    "tambor": {
+      "changana": "ngoma",
+      "english": "drum"
+    },
+    "fumo": {
+      "changana": "musi",
+      "english": "smoke"
+    },
+    "mastigar": {
+      "changana": "kucakuna",
+      "english": "to chew"
+    },
+    "gravidez": {
+      "changana": "nyimba",
+      "english": "pregnancy"
+    },
+    "crianca": {
+      "changana": "n'wana",
+      "english": "child"
+    },
+    "meter": {
+      "changana": "kupeta",
+      "english": "to insert"
+    },
+    "marcar": {
+      "changana": "kubala",
+      "english": "to mark"
+    },
+    "aplicar liquido": {
+      "changana": "kutota",
+      "english": "to apply liquid"
+    },
+    "despejar": {
+      "changana": "kudiba",
+      "english": "to pour"
+    },
+    "perseguir": {
+      "changana": "kucaca",
+      "english": "to chase"
+    },
+    "cacar alguem": {
+      "changana": "kujuma",
+      "english": "to hunt someone"
+    },
+    "raciocinar": {
+      "changana": "kukqavanga",
+      "english": "to reason"
+    },
+    "advogado": {
+      "changana": "gqwetha",
+      "english": "lawyer"
+    },
+    "estar farto": {
+      "changana": "kukolwa",
+      "english": "to be fed up"
+    },
+    "mexer": {
+      "changana": "kudunga",
+      "english": "to stir"
+    },
+    "andar": {
+      "changana": "kufamba",
+      "english": "to walk"
+    },
+    "semana": {
+      "changana": "vhiki",
+      "english": "week"
+    },
+    "porta": {
+      "changana": "xipfalu",
+      "english": "door"
+    },
+    "sair": {
+      "changana": "kusuka",
+      "english": "to leave"
+    },
+    "tentar": {
+      "changana": "kuzama",
+      "english": "to try"
+    },
+    "vassoura": {
+      "changana": "nsviyelo",
+      "english": "broom"
+    },
+    "apelido": {
+      "changana": "Mazvaya",
+      "english": "nickname"
+    },
+    "comprar": {
+      "changana": "kuxava",
+      "english": "to buy"
+    },
+    "arranjar": {
+      "changana": "kulungisa",
+      "english": "to fix"
+    },
+    "provar": {
+      "changana": "kuringa",
+      "english": "to taste"
+    },
+    "ouvir": {
+      "changana": "kuyingisa",
+      "english": "to hear"
+    },
+    "tirar lixo": {
+      "changana": "kuwola",
+      "english": "to take out trash"
+    },
+      "acusar": {
+        "changana": "kulumbeta",
+        "english": "to accuse"
+      },
+      "agricultor": {
+        "changana": "murimi",
+        "english": "farmer"
+      },
+      "agua": {
+        "changana": "mati",
+        "english": "water"
+      },
+      "algodao": {
+        "changana": "thonje",
+        "english": "cotton"
+      },
+      "andar": {
+        "changana": "kufamba",
+        "english": "to walk"
+      },
+      "apelido": {
+        "changana": "Mazvaya",
+        "english": "nickname"
+      },
+      "apressar": {
+        "changana": "kujaha",
+        "english": "to hurry"
+      },
+      "arroz": {
+        "changana": "mpunga",
+        "english": "rice"
+      },
+      "cauda": {
+        "changana": "ncila",
+        "english": "tail"
+      },
+      "capulana": {
+        "changana": "nguvu",
+        "english": "capulana"
+      },
+      "ceu": {
+        "changana": "tilo",
+        "english": "sky"
+      },
+      "chiar": {
+        "changana": "kuqokola",
+        "english": "to squeak"
+      },
+      "cinza": {
+        "changana": "nkuma",
+        "english": "ash"
+      },
+      "emagrecer": {
+        "changana": "kulala",
+        "english": "to lose weight"
+      },
+      "escuro": {
+        "changana": "ntima",
+        "english": "dark"
+      },
+      "estar na moda": {
+        "changana": "kulhuma",
+        "english": "to be trendy"
+      },
+      "eucalipto": {
+        "changana": "nlhulamenti",
+        "english": "eucalyptus"
+      },
+      "examinar paciente": {
+        "changana": "kupompola",
+        "english": "to examine patient"
+      },
+      "gratuito": {
+        "changana": "mahala",
+        "english": "free"
+      },
+      "gravidez": {
+        "changana": "nyimba",
+        "english": "pregnancy"
+      },
+      "grande": {
+        "changana": "mukulu",
+        "english": "big"
+      },
+      "lata de agua": {
+        "changana": "mudlomu",
+        "english": "water can"
+      },
+      "lenco": {
+        "changana": "faduku",
+        "english": "handkerchief"
+      },
+      "limao": {
+        "changana": "bomu",
+        "english": "lemon"
+      },
+      "lingua": {
+        "changana": "lirimi",
+        "english": "tongue"
+      },
+      "linha ferrea": {
+        "changana": "njanje",
+        "english": "railway"
+      },
+      "marido": {
+        "changana": "nuna",
+        "english": "husband"
+      },
+      "moagem": {
+        "changana": "xigayo",
+        "english": "mill"
+      },
+      "mosquito": {
+        "changana": "nsuna",
+        "english": "mosquito"
+      },
+      "odiar": {
+        "changana": "kuzonda",
+        "english": "to hate"
+      },
+      "padre": {
+        "changana": "mufudhisi",
+        "english": "priest"
+      },
+      "persistir": {
+        "changana": "kusima",
+        "english": "to persist"
+      },
+      "provar": {
+        "changana": "kuringa",
+        "english": "to taste"
+      },
+      "purificar viuva": {
+        "changana": "kucinga",
+        "english": "to purify widow"
+      },
+      "quiabo": {
+        "changana": "mandande",
+        "english": "okra"
+      },
+      "saltar": {
+        "changana": "kutlula",
+        "english": "to jump"
+      },
+      "ser alto": {
+        "changana": "kuleha",
+        "english": "to be tall"
+      },
+      "sofrimento": {
+        "changana": "nhlomulo",
+        "english": "suffering"
+      },
+      "tentar": {
+        "changana": "kuzama",
+        "english": "to try"
+      },
+      "varrer": {
+        "changana": "kusviyela",
+        "english": "to sweep"
+      },
+      "vendedor": {
+        "changana": "muxavisi",
+        "english": "seller"
+      },
+      "ver": {
+        "changana": "kuvona",
+        "english": "to see"
+      },
+      "voces": {
+        "changana": "n'wina",
+        "english": "you (plural)"
+      },
+      "zona": {
+        "changana": "muganga",
+        "english": "zone"
+      },
+        "voces": {
+          "changana": "n'wina",
+          "english": "you (plural)"
+        },
+        "zona": {
+          "changana": "muganga",
+          "english": "zone"
+        },
+        "paozinho": {
+          "changana": "xipawana",
+          "english": "small bread"
+        },
+        "cordinha": {
+          "changana": "xigodana",
+          "english": "small rope"
+        },
+        "nossos": {
+          "changana": "sverhu",
+          "english": "our"
+        },
+        "nosso_cl10": {
+          "changana": "terhu",
+          "english": "our (class 10)"
+        },
+        "gatinho": {
+          "changana": "xingovana",
+          "english": "little cat"
+        },
+        "no_milho": {
+          "changana": "maveleni",
+          "english": "in the corn"
+        },
+        "na_igreja": {
+          "changana": "nkerekeni",
+          "english": "in the church"
+        },
+        "nos_pes": {
+          "changana": "minengeni",
+          "english": "in the feet/legs"
+        },
+        "no_patio": {
+          "changana": "gqekeni",
+          "english": "in the yard"
+        },
+        "no_baile": {
+          "changana": "bayeleni",
+          "english": "at the dance/party"
+        },
+        "pilaozinho": {
+          "changana": "xichurhana",
+          "english": "small mortar"
+        },
+        "negrozinho": {
+          "changana": "xilandana",
+          "english": "little black person"
+        },
+        "larzinho": {
+          "changana": "ximuntana",
+          "english": "small home"
+        },
+        "pauzinho_de_pilar": {
+          "changana": "ximusana",
+          "english": "small pestle"
+        },
+        "no_pilao": {
+          "changana": "churhini",
+          "english": "in the mortar"
+        },
+        "no_lar": {
+          "changana": "muntini",
+          "english": "at home"
+        },
+        "na_paragem": {
+          "changana": "xitichini",
+          "english": "at the bus stop"
+        },
+        "na_mina": {
+          "changana": "mugodini",
+          "english": "in the mine"
+        },      
+          "voces": {
+            "changana": "n'wina",
+            "english": "you (plural)"
+          },
+          "zona": {
+            "changana": "muganga",
+            "english": "zone"
+          },
+          "paozinho": {
+            "changana": "xipawana",
+            "english": "small bread"
+          },
+          "cordinha": {
+            "changana": "xigodana",
+            "english": "small rope"
+          },
+          "nossos": {
+            "changana": "sverhu",
+            "english": "our"
+          },
+          "nosso_cl10": {
+            "changana": "terhu",
+            "english": "our (class 10)"
+          },
+          "gatinho": {
+            "changana": "xingovana",
+            "english": "little cat"
+          },
+          "no_milho": {
+            "changana": "maveleni",
+            "english": "in the corn"
+          },
+          "na_igreja": {
+            "changana": "nkerekeni",
+            "english": "in the church"
+          },
+          "nos_pes": {
+            "changana": "minengeni",
+            "english": "in the feet/legs"
+          },
+          "no_patio": {
+            "changana": "gqekeni",
+            "english": "in the yard"
+          },
+          "no_baile": {
+            "changana": "bayeleni",
+            "english": "at the dance/party"
+          },
+          "pilaozinho": {
+            "changana": "xichurhana",
+            "english": "small mortar"
+          },
+          "negrozinho": {
+            "changana": "xilandana",
+            "english": "little black person"
+          },
+          "larzinho": {
+            "changana": "ximuntana",
+            "english": "small home"
+          },
+          "pauzinho_de_pilar": {
+            "changana": "ximusana",
+            "english": "small pestle"
+          },
+          "no_pilao": {
+            "changana": "churhini",
+            "english": "in the mortar"
+          },
+          "no_lar": {
+            "changana": "muntini",
+            "english": "at home"
+          },
+          "na_paragem": {
+            "changana": "xitichini",
+            "english": "at the bus stop"
+          },
+          "na_mina": {
+            "changana": "mugodini",
+            "english": "in the mine"
+          },
+          "criancas": {
+            "changana": "vatsongwana",
+            "english": "children"
+          },
+          "palavrinha": {
+            "changana": "ritwana",
+            "english": "small word"
+          },
+          "na_escola": {
+            "changana": "xikolweni",
+            "english": "at school"
+          },
+          "no_sono": {
+            "changana": "wurhongweni",
+            "english": "in sleep"
+          },
+          "no_joelho": {
+            "changana": "ndzolweni",
+            "english": "on the knee"
+          },
+          "na_linha_ferrea": {
+            "changana": "xiporweni",
+            "english": "on the railway"
+          },
+          "na_cabeca": {
+            "changana": "nhlokweni",
+            "english": "on the head"
+          },
+          "livrinho": {
+            "changana": "xibukwana",
+            "english": "small book"
+          },
+          "calcas_pequenas": {
+            "changana": "xibulukwana",
+            "english": "small pair of pants"
+          },
+          "casinha": {
+            "changana": "xiyindlwana",
+            "english": "small house"
+          },
+          "no_livro": {
+            "changana": "bukwini",
+            "english": "in the book"
+          },
+          "nas_calcas": {
+            "changana": "bulukwini",
+            "english": "in the pants"
+          },
+          "dentro_de_casa": {
+            "changana": "ndlwini",
+            "english": "inside the house"
+          },
+          "crianca": {
+            "changana": "mwana/n'wana",
+            "english": "child",
+            "note": "Has two variant forms"
+          },
+          "lua": {
+            "changana": "mweti/n'weti",
+            "english": "moon",
+            "note": "Has two variant forms"
+          },
+          "mes": {
+            "changana": "mweti/n'weti",
+            "english": "month",
+            "note": "Has two variant forms"
+          },
+          "nas_machambas": {
+            "changana": "masin'wini",
+            "english": "in the fields",
+            "note": "Derived from masimwini"
+          },
+          "na_boca": {
+            "changana": "non'wini",
+            "english": "in the mouth",
+            "note": "Derived from nomwini"
+          },
+              "voces": {
+                "changana": "n'wina",
+                "english": "you (plural)"
+              },
+              "zona": {
+                "changana": "muganga",
+                "english": "zone"
+              },
+              "paozinho": {
+                "changana": "xipawana",
+                "english": "small bread"
+              },
+              "cordinha": {
+                "changana": "xigodana",
+                "english": "small rope"
+              },
+              "nossos": {
+                "changana": "sverhu",
+                "english": "our"
+              },
+              "nosso_cl10": {
+                "changana": "terhu",
+                "english": "our (class 10)"
+              },
+              "gatinho": {
+                "changana": "xingovana",
+                "english": "little cat"
+              },
+              "no_milho": {
+                "changana": "maveleni",
+                "english": "in the corn"
+              },
+              "na_igreja": {
+                "changana": "nkerekeni",
+                "english": "in the church"
+              },
+              "nos_pes": {
+                "changana": "minengeni",
+                "english": "in the feet/legs"
+              },
+              "no_patio": {
+                "changana": "gqekeni",
+                "english": "in the yard"
+              },
+              "no_baile": {
+                "changana": "bayeleni",
+                "english": "at the dance/party"
+              },
+              "pilaozinho": {
+                "changana": "xichurhana",
+                "english": "small mortar"
+              },
+              "negrozinho": {
+                "changana": "xilandana",
+                "english": "little black person"
+              },
+              "larzinho": {
+                "changana": "ximuntana",
+                "english": "small home"
+              },
+              "pauzinho_de_pilar": {
+                "changana": "ximusana",
+                "english": "small pestle"
+              },
+              "no_pilao": {
+                "changana": "churhini",
+                "english": "in the mortar"
+              },
+              "no_lar": {
+                "changana": "muntini",
+                "english": "at home"
+              },
+              "na_paragem": {
+                "changana": "xitichini",
+                "english": "at the bus stop"
+              },
+              "na_mina": {
+                "changana": "mugodini",
+                "english": "in the mine"
+              },
+              "criancas": {
+                "changana": "vatsongwana",
+                "english": "children"
+              },
+              "palavrinha": {
+                "changana": "ritwana",
+                "english": "small word"
+              },
+              "na_escola": {
+                "changana": "xikolweni",
+                "english": "at school"
+              },
+              "no_sono": {
+                "changana": "wurhongweni",
+                "english": "in sleep"
+              },
+              "no_joelho": {
+                "changana": "ndzolweni",
+                "english": "on the knee"
+              },
+              "na_linha_ferrea": {
+                "changana": "xiporweni",
+                "english": "on the railway"
+              },
+              "na_cabeca": {
+                "changana": "nhlokweni",
+                "english": "on the head"
+              },
+              "livrinho": {
+                "changana": "xibukwana",
+                "english": "small book"
+              },
+              "calcas_pequenas": {
+                "changana": "xibulukwana",
+                "english": "small pair of pants"
+              },
+              "casinha": {
+                "changana": "xiyindlwana",
+                "english": "small house"
+              },
+              "no_livro": {
+                "changana": "bukwini",
+                "english": "in the book"
+              },
+              "nas_calcas": {
+                "changana": "bulukwini",
+                "english": "in the pants"
+              },
+              "dentro_de_casa": {
+                "changana": "ndlwini",
+                "english": "inside the house"
+              },
+              "crianca": {
+                "changana": "mwana/n'wana",
+                "english": "child",
+                "note": "Has two variant forms"
+              },
+              "lua_mes": {
+                "changana": "mweti/n'weti",
+                "english": "moon, month",
+                "note": "Has two variant forms"
+              },
+              "nas_machambas": {
+                "changana": "masin'wini",
+                "english": "in the fields",
+                "note": "Derived from masimwini"
+              },
+              "na_boca": {
+                "changana": "non'wini",
+                "english": "in the mouth",
+                "note": "Derived from nomwini"
+              },
+              "mastigar": {
+                "changana": "cakuna",
+                "english": "to chew"
+              },
+              "extrair": {
+                "changana": "tsuvula",
+                "english": "to extract"
+              },
+              "acenar": {
+                "changana": "palasa",
+                "english": "to wave/beckon with hand"
+              },
+              "comecar": {
+                "changana": "sungula",
+                "english": "to begin"
+              },
+              "engordar": {
+                "changana": "kuluka",
+                "english": "to gain weight"
+              },
+              "ajoelhar": {
+                "changana": "khizama",
+                "english": "to kneel"
+              },
+              "por_no_fogo": {
+                "changana": "tseleka",
+                "english": "to put on fire"
+              },
+              "enviar": {
+                "changana": "posela",
+                "english": "to send to someone"
+              },
+              "rezar": {
+                "changana": "khongela",
+                "english": "to pray"
+              },
+              "cabrito": {
+                "changana": "mbuti",
+                "english": "goat"
+              },
+              "reino": {
+                "changana": "mpfumu",
+                "english": "kingdom, government"
+              },
+              "homem_anciao": {
+                "changana": "ndota",
+                "english": "elderly man"
+              },
+              "na_barriga": {
+                "changana": "ndzeni",
+                "english": "in the belly"
+              },
+              "cabeca": {
+                "changana": "nhloko",
+                "english": "head"
+              },
+              "galo": {
+                "changana": "nkuku",
+                "english": "rooster"
+              },
+              "batuque": {
+                "changana": "ngoma",
+                "english": "drum, traditional dance"
+              },
+              "filho": {
+                "changana": "mwana",
+                "english": "child, son"
+              },
+              "no_limao": {
+                "changana": "bomwini",
+                "english": "in the lemon",
+                "note": "Locative form with -wini"
+              },
+              "na_boca": {
+                "changana": "nomwini",
+                "english": "in the mouth",
+                "note": "Locative form with -wini"
+              },
+              "na_pastagem": {
+                "changana": "homwini",
+                "english": "in the pasture",
+                "note": "Locative form with -wini"
+              },
+              "na_machamba": {
+                "changana": "masimwini",
+                "english": "in the field",
+                "note": "Locative form with -wini"
+              },
+              "lua": {
+                "changana": "mweti",
+                "english": "moon",
+                "note": "Has multiple variant forms"
+              },     
+              "pequeno": {
+              "changana": "tsongo",
+              "english": "small"
+            },
+            "grande": {
+              "changana": "kulu",
+              "english": "big"
+            },
+            "viver": {
+              "changana": "hanya",
+              "english": "live"
+            },
+            "morrer": {
+              "changana": "fa",
+              "english": "die"
+            },
+            "frio": {
+              "changana": "xirhami",
+              "english": "cold"
+            },
+            "quente": {
+              "changana": "hisa",
+              "english": "hot"
+            },
+            "alegre": {
+              "changana": "tsaka",
+              "english": "happy"
+            },
+            "triste": {
+              "changana": "kwata",
+              "english": "sad"
+            },
+            "bonito": {
+              "changana": "xonga",
+              "english": "beautiful"
+            },
+            "feio": {
+              "changana": "biha",
+              "english": "ugly"
+            },
+            "acordar": {
+              "changana": "pfuka",
+              "english": "wake up"
+            },
+            "dormir": {
+              "changana": "yetlela",
+              "english": "sleep"
+            }
+              
+}
