@@ -24,7 +24,7 @@ Moz Translate é uma biblioteca e ferramenta CLI projetada para facilitar tradu�
 
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/seu-usuario/moz-translate.git
+   git clone https://github.com/emiltonnhampossa/Moz-Translate.git
    cd moz-translate
    ```
 
@@ -88,7 +88,7 @@ Você pode iniciar um servidor local para expor a API de tradução.
   ```json
   {
     "word": "olá",
-    "translation": "xabonga"
+    "translation": "Avuxeni"
   }
   ```
 
